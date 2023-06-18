@@ -2,6 +2,12 @@
 
 Esse é um projeto de teste técnico proposto pela Speedio. O teste consiste em desenvolver um encurtador de urls, tanto o server-side, quanto a interface.
 
+## Link do Projeto
+
+https://challenge-speedio-frontend.vercel.app/
+
+0bs.: o backend está hospedado no render, então pode demorar um pouco ou até dar erro para carregar a primeira request.
+
 ## Rodando localmente
 
 Clone o projeto
