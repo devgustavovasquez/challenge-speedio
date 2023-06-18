@@ -36,6 +36,10 @@ Comando para iniciar (os dois)
   pnpm dev
 ```
 
+### Caso não queira rodar o banco
+
+Coloquei aqui as ENVs já que o repositório é privado.
+
 `DATABASE_URL=`postgres://prisma_speedio:DL47UPkHB9k8Zf7eUzdge6guQxPbduMW@dpg-ci5uj1p8g3n4q9ue5740-a.oregon-postgres.render.com/speedio_db
 
 `JWT_SECRET=`341278041264fe436f4d027f4c66f195
